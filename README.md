@@ -57,7 +57,6 @@ O pedido abaixo não especifica o número de bytes a ser lido (zero), portanto u
 
         2 20 R 0 1000
 
-
 ## Resultados
 
 Durante a simulação, se o parâmetro de entrada _debug_ for 1, o simulador deverá imprimir na saída padrão (_stdout_) o _id_ de quem estiver usando o barramento, uma vez por ciclo. Quando ninguém estiver usando o barramento, imprima espaços. A largura da linha é 80 caracteres.
