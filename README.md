@@ -1,20 +1,4 @@
 # Trabalho 3 - Arquitetura e Organização de Computadores II - 2017/2
-Prof. Maurício Lima Pilla - http://lups.inf.ufpel.edu.br/~pilla
-
-## Declaração
-
-Declaramos que o presente trabalho contém código desenvolvido exclusivamente por nós e que não foi compartilhado de nenhuma forma com terceiros a não ser o professor da disciplina. Compreendo que qualquer violação destes princípios será punida rigorosamente de acordo com o Regimento da UFPEL.
-
-(Preencha com seus dados)
-
-- Nome completo: Rafael de Sousa Nascimento
-- Username do Github: rdsnascimento
-- Email @inf: rdsnascimento@inf.ufpel.edu.br
-
-(Em caso de dupla)
-- Nome completo: 
-- Username do Github: 
-- Email @inf: 
 
 ## Descrição
 
@@ -89,9 +73,3 @@ Como resultados, o simulador deverá retornar:
 
 * Implementação (*io.c*)
 * Casos de teses do(a) aluno(a) (*mytests.c* e traço em *pedidos.txt*)
-
-## Cronograma
-
-* Aula de discussão do trabalho e dúvidas: _08/12/2018_
-* Envio da versão final: _18/02/2018/_ 
-* Envio das correções de bugs: _22/02/2018_
